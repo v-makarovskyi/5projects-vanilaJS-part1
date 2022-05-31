@@ -61,13 +61,13 @@ nav.active ul li {
     transform: rotateY(360deg);
 }
 
-nav ul a {
+ nav ul a {
     position: relative;
     color: #000;
     text-decoration: none;
     margin: 0 10px;
 }
-
+ 
 .icon {
     background-color: #fff;
     border: 0;
